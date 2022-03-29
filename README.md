@@ -9,3 +9,5 @@
 ~20220320 : Actor에 Box Trigger를 달아서 이벤트 발생(Coin, Switch, Gate) 작업 완료
 
 ~20220324 : Player, Coin 등 Pawn과 Actor의 생성과 소멸 작업 완료
+
+~20220330 : Actor에 Physics 적용
