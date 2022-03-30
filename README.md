@@ -11,3 +11,5 @@
 ~20220324 : Player, Coin 등 Pawn과 Actor의 생성과 소멸 작업 완료
 
 ~20220330 : Actor에 Physics 적용
+
+~20220331 : Collision Setting, AI Patrol 적용
