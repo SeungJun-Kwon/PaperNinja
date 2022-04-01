@@ -13,3 +13,5 @@
 ~20220330 : Actor에 Physics 적용
 
 ~20220331 : Collision Setting, AI Patrol 적용
+
+~20220401 : 적 Animation 
