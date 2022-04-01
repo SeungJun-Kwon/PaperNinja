@@ -14,4 +14,4 @@
 
 ~20220331 : Collision Setting, AI Patrol 적용
 
-~20220401 : 적 Animation 
+~20220401 : 적 Animation 적용
