@@ -20,4 +20,4 @@
 
 ~20220403 : Texture를 이용해 Material과 Material Instance 생성
 
-~20220404 : Particle System 생성 및 
+~20220404 : Particle System 생성 및 적용
