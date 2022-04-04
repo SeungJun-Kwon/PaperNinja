@@ -15,3 +15,9 @@
 ~20220331 : Collision Setting, AI Patrol 적용
 
 ~20220401 : 적 Animation 적용
+
+~20220402 : 블렌드 스페이스를 이용한 캐릭터 Animation 적용
+
+~20220403 : Texture를 이용해 Material과 Material Instance 생성
+
+~20220404 : Particle System 생성 및 
