@@ -23,3 +23,5 @@
 ~20220404 : Particle System 생성 및 적용
 
 ~20220406 : Lighting 작업 및 간단한 Sound Cue 작업 완료
+
+~20220407 : Sound 작업 완료
