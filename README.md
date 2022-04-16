@@ -25,3 +25,5 @@
 ~20220406 : Lighting 작업 및 간단한 Sound Cue 작업 완료
 
 ~20220407 : Sound 작업 완료
+
+~20220409 : 간단한 UI 및 Player 목숨 
